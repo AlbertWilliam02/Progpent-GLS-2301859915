@@ -1,4 +1,5 @@
 # Progpent-GLS-2301859915
+#Albert William Sams
 Buatlah script python dan taruh di git.
  
 Lakukan Host Reconnaissance pada agent.
